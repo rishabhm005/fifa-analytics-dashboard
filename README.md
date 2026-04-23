@@ -6,6 +6,8 @@ An interactive web-based visual analytics platform that explores historical FIFA
 ![Flask](https://img.shields.io/badge/Flask-3.0-green.svg)
 ![Chart.js](https://img.shields.io/badge/Chart.js-4.0-orange.svg)
 
+Forked and maintained as part of my portfolio. I contributed to analytics presentation, project refinement, testing, and documentation.
+
 ## ✨ Features
 
 ### Interactive Visualizations
@@ -13,7 +15,14 @@ An interactive web-based visual analytics platform that explores historical FIFA
 - **📊 Top Teams Bar Chart** - See which nations dominate by wins, goals, or titles
 - **🥧 Continental Pie Chart** - Understand goal distribution by continent
 - **⚔️ Team Comparison** - Compare any two teams head-to-head
+  
+## My Contributions
 
+- Assisted in dashboard refinement and UI presentation
+- Worked on analytics interpretation and feature polishing
+- Helped test functionality and improve usability
+- Maintained project documentation for portfolio showcase
+  
 ### Key Questions Answered
 1. **Are modern World Cups more defensive?** - Analyze goals per match over time
 2. **Which teams have dominated?** - Rank teams by wins, goals, or titles
@@ -119,5 +128,9 @@ Data fields include: year, host country, teams, scores, attendance, match stage,
 This project is for educational and demonstration purposes.
 
 ---
+
+## Portfolio
+
+View my portfolio: https://rishabhm005.github.io/portfolio/
 
 **Built with ❤️ for football fans and data enthusiasts**
